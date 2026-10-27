@@ -123,7 +123,7 @@ dotnet run
 https://localhost:7248/swagger
 ```
 
-![Swagger UI](./docs/Swagger.png)
+![Swagger UI](./TaskManagerAPI/docs/Swagger.png)
 
 ## API Endpoints
 
