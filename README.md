@@ -120,7 +120,8 @@ dotnet run
 5. **Open Swagger UI**
 
 ```
-https://localhost:7248/swagger
+
+https://localhost:{port}/swagger
 ```
 
 ![Swagger UI](./TaskManagerAPI/docs/Swagger.png)
